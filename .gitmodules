@@ -1,0 +1,4 @@
+[submodule "honko-damagecalc"]
+	path = honko-damagecalc
+	url = https://github.com/Ortheore/honko-damagecalc.git
+	branch = master
